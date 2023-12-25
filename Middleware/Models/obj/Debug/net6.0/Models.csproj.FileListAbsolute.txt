@@ -1,0 +1,12 @@
+D:\Repositories\Personal\Middleware\Models\bin\Debug\net6.0\Models.deps.json
+D:\Repositories\Personal\Middleware\Models\bin\Debug\net6.0\Models.dll
+D:\Repositories\Personal\Middleware\Models\bin\Debug\net6.0\Models.pdb
+D:\Repositories\Personal\Middleware\Models\obj\Debug\net6.0\Models.csproj.AssemblyReference.cache
+D:\Repositories\Personal\Middleware\Models\obj\Debug\net6.0\Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositories\Personal\Middleware\Models\obj\Debug\net6.0\Models.AssemblyInfoInputs.cache
+D:\Repositories\Personal\Middleware\Models\obj\Debug\net6.0\Models.AssemblyInfo.cs
+D:\Repositories\Personal\Middleware\Models\obj\Debug\net6.0\Models.csproj.CoreCompileInputs.cache
+D:\Repositories\Personal\Middleware\Models\obj\Debug\net6.0\Models.dll
+D:\Repositories\Personal\Middleware\Models\obj\Debug\net6.0\refint\Models.dll
+D:\Repositories\Personal\Middleware\Models\obj\Debug\net6.0\Models.pdb
+D:\Repositories\Personal\Middleware\Models\obj\Debug\net6.0\ref\Models.dll
